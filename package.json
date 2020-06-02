@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Bachtiar portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachtiarfr/bachtiarfr.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "bachtiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachtiarfr/bachtiarfr.github.io/issues"
+  },
+  "homepage": "https://github.com/bachtiarfr/bachtiarfr.github.io#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
