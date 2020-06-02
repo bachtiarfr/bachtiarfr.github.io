@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/bachtiarfr/bachtiarfr.github.io#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
-    "scope": "@portfolio"
+    "registry": "https://npm.pkg.github.com/portfolio"
   }
 }
